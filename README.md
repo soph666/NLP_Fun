@@ -1,2 +1,4 @@
-# audio_summary
-Convert speech to text then perform long text modelling to summarize and classify
+# small NLP ideas to try
+
+- Youtube video summaries, transcript based, can be used to automatically generate video descriptions 
+- 
